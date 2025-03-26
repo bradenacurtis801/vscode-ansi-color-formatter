@@ -1,0 +1,353 @@
+2025-03-25 09:14:17,587 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (3174, 8), dx: -34, dy: -1[0m
+None
+2025-03-25 09:14:17,591 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-34[0m
+None
+2025-03-25 09:14:17,592 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdy[31m changed from [34m0[31m to [34m-1[0m
+None
+2025-03-25 09:14:17,592 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m3174[0m
+    [33my: [34m8[0m
+    [33mdx: [34m-34[0m
+    [33mdy: [34m-1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,595 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (3136, 7), dx: -38, dy: -1[0m
+None
+2025-03-25 09:14:17,596 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-38[0m
+None
+2025-03-25 09:14:17,597 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdy[31m changed from [34m0[31m to [34m-1[0m
+None
+2025-03-25 09:14:17,597 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m3136[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-38[0m
+    [33mdy: [34m-1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,600 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (3121, 7), dx: -15, dy: 0[0m
+None
+2025-03-25 09:14:17,601 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-15[0m
+None
+2025-03-25 09:14:17,602 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m3121[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-15[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,608 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (3092, 7), dx: -29, dy: 0[0m
+None
+2025-03-25 09:14:17,610 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-29[0m
+None
+2025-03-25 09:14:17,611 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m3092[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-29[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,615 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (3072, 7), dx: -20, dy: 0[0m
+None
+2025-03-25 09:14:17,616 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-20[0m
+None
+2025-03-25 09:14:17,619 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m3072[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-20[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,625 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (3039, 7), dx: -33, dy: 0[0m
+None
+2025-03-25 09:14:17,626 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-33[0m
+None
+2025-03-25 09:14:17,627 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m3039[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-33[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,629 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (3024, 7), dx: -15, dy: 0[0m
+None
+2025-03-25 09:14:17,630 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-15[0m
+None
+2025-03-25 09:14:17,631 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m3024[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-15[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,636 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (3011, 7), dx: -13, dy: 0[0m
+None
+2025-03-25 09:14:17,638 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-13[0m
+None
+2025-03-25 09:14:17,639 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m3011[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-13[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,641 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2997, 7), dx: -14, dy: 0[0m
+None
+2025-03-25 09:14:17,643 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-14[0m
+None
+2025-03-25 09:14:17,648 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2997[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-14[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,650 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2981, 7), dx: -16, dy: 0[0m
+None
+2025-03-25 09:14:17,652 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-16[0m
+None
+2025-03-25 09:14:17,653 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2981[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-16[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,656 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2967, 7), dx: -14, dy: 0[0m
+None
+2025-03-25 09:14:17,657 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-14[0m
+None
+2025-03-25 09:14:17,658 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2967[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-14[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,662 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2955, 7), dx: -12, dy: 0[0m
+None
+2025-03-25 09:14:17,664 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-12[0m
+None
+2025-03-25 09:14:17,665 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2955[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-12[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,668 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2947, 7), dx: -8, dy: 0[0m
+None
+2025-03-25 09:14:17,669 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-8[0m
+None
+2025-03-25 09:14:17,669 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2947[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-8[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,673 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2940, 7), dx: -7, dy: 0[0m
+None
+2025-03-25 09:14:17,674 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-7[0m
+None
+2025-03-25 09:14:17,676 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2940[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-7[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,680 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2928, 7), dx: -12, dy: 0[0m
+None
+2025-03-25 09:14:17,682 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-12[0m
+None
+2025-03-25 09:14:17,682 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2928[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-12[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,685 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2920, 7), dx: -8, dy: 0[0m
+None
+2025-03-25 09:14:17,688 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-8[0m
+None
+2025-03-25 09:14:17,690 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2920[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-8[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,694 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2914, 7), dx: -6, dy: 0[0m
+None
+2025-03-25 09:14:17,694 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-6[0m
+None
+2025-03-25 09:14:17,696 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2914[0m
+    [33my: [34m7[0m
+    [33mdx: [34m-6[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,700 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2909, 8), dx: -5, dy: 1[0m
+None
+2025-03-25 09:14:17,701 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-5[0m
+None
+2025-03-25 09:14:17,702 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdy[31m changed from [34m0[31m to [34m1[0m
+None
+2025-03-25 09:14:17,704 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2909[0m
+    [33my: [34m8[0m
+    [33mdx: [34m-5[0m
+    [33mdy: [34m1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,708 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2905, 9), dx: -4, dy: 1[0m
+None
+2025-03-25 09:14:17,709 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-4[0m
+None
+2025-03-25 09:14:17,709 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdy[31m changed from [34m0[31m to [34m1[0m
+None
+2025-03-25 09:14:17,710 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2905[0m
+    [33my: [34m9[0m
+    [33mdx: [34m-4[0m
+    [33mdy: [34m1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,713 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2903, 9), dx: -2, dy: 0[0m
+None
+2025-03-25 09:14:17,713 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-2[0m
+None
+2025-03-25 09:14:17,714 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2903[0m
+    [33my: [34m9[0m
+    [33mdx: [34m-2[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,718 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2901, 9), dx: -2, dy: 0[0m
+None
+2025-03-25 09:14:17,720 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-2[0m
+None
+2025-03-25 09:14:17,720 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2901[0m
+    [33my: [34m9[0m
+    [33mdx: [34m-2[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,724 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2899, 9), dx: -2, dy: 0[0m
+None
+2025-03-25 09:14:17,725 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-2[0m
+None
+2025-03-25 09:14:17,727 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2899[0m
+    [33my: [34m9[0m
+    [33mdx: [34m-2[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,731 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2898, 10), dx: -1, dy: 1[0m
+None
+2025-03-25 09:14:17,733 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-1[0m
+None
+2025-03-25 09:14:17,733 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdy[31m changed from [34m0[31m to [34m1[0m
+None
+2025-03-25 09:14:17,733 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2898[0m
+    [33my: [34m10[0m
+    [33mdx: [34m-1[0m
+    [33mdy: [34m1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,736 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2897, 10), dx: -1, dy: 0[0m
+None
+2025-03-25 09:14:17,738 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-1[0m
+None
+2025-03-25 09:14:17,739 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2897[0m
+    [33my: [34m10[0m
+    [33mdx: [34m-1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,745 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2895, 10), dx: -2, dy: 0[0m
+None
+2025-03-25 09:14:17,746 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-2[0m
+None
+2025-03-25 09:14:17,747 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2895[0m
+    [33my: [34m10[0m
+    [33mdx: [34m-2[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,750 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2893, 10), dx: -2, dy: 0[0m
+None
+2025-03-25 09:14:17,752 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-2[0m
+None
+2025-03-25 09:14:17,754 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2893[0m
+    [33my: [34m10[0m
+    [33mdx: [34m-2[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,760 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2893, 10), dx: 0, dy: 0[0m
+None
+2025-03-25 09:14:17,762 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2893[0m
+    [33my: [34m10[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,767 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2892, 10), dx: -1, dy: 0[0m
+None
+2025-03-25 09:14:17,769 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m-1[0m
+None
+2025-03-25 09:14:17,771 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2892[0m
+    [33my: [34m10[0m
+    [33mdx: [34m-1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,843 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2892, 10), dx: 0, dy: 0[0m
+None
+2025-03-25 09:14:17,846 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2892[0m
+    [33my: [34m10[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,853 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2892, 10), dx: 0, dy: 0[0m
+None
+2025-03-25 09:14:17,855 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2892[0m
+    [33my: [34m10[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,857 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2893, 10), dx: 1, dy: 0[0m
+None
+2025-03-25 09:14:17,858 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m1[0m
+None
+2025-03-25 09:14:17,859 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2893[0m
+    [33my: [34m10[0m
+    [33mdx: [34m1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,862 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2895, 10), dx: 2, dy: 0[0m
+None
+2025-03-25 09:14:17,862 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m2[0m
+None
+2025-03-25 09:14:17,863 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2895[0m
+    [33my: [34m10[0m
+    [33mdx: [34m2[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,866 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2895, 10), dx: 0, dy: 0[0m
+None
+2025-03-25 09:14:17,866 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2895[0m
+    [33my: [34m10[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,869 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2896, 10), dx: 1, dy: 0[0m
+None
+2025-03-25 09:14:17,869 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m1[0m
+None
+2025-03-25 09:14:17,871 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2896[0m
+    [33my: [34m10[0m
+    [33mdx: [34m1[0m
+[33m)[0m
+None
+2025-03-25 09:14:17,875 - DEBUG - proxyio_lib.hooks.mouseHook.base:185 - [33mMouse moved to: (2897, 10), dx: 1, dy: 0[0m
+None
+2025-03-25 09:14:17,875 - DEBUG - proxyio_lib.hooks.mouseHook.base:56 - [31mMouseEvent. [33mdx[31m changed from [34m0[31m to [34m1[0m
+None
+2025-03-25 09:14:17,877 - DEBUG - proxyio_lib.hooks.mouseHook.base:209 - [33mMouseEvent([0m
+    [33mx: [34m2897[0m
+    [33my: [34m10[0m
+    [33mdx: [34m1[0m
+[33m)[0m
+None
