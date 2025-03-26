@@ -15,10 +15,10 @@ This extension adds support for ANSI escape sequences in VS Code, allowing you t
 # Feature
 
 Before:
-![feature X](./demos//pre-format.png)
+![feature X](https://github.com/bradenacurtis801/vscode-ansi-color-formatter/raw/4c7d3e39481deb6b3c3b4f7f799bfdb723229322/demos/pre-format.png)
 
 After:
-![feature X](./demos//formatted.png)
+![feature X](https://github.com/bradenacurtis801/vscode-ansi-color-formatter/raw/4c7d3e39481deb6b3c3b4f7f799bfdb723229322/demos/formatted.png)
 
 > Tip: You can add highlighting for specific log levels like DEBUG, ERROR, etc., by modifying the ANSI code mappings. Here's an example of a custom color configuration.
 
