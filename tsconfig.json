@@ -1,6 +1,6 @@
 {
 	"compilerOptions": {
-		"outDir": "ansi-color-formatter",
+		"outDir": "out",
 		"module": "Node16",
 		"target": "ES2022",
 		"lib": [
